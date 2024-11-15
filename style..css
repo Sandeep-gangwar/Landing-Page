@@ -1,0 +1,69 @@
+
+body{
+    background-image: url(graph-web-abstract-4k-hn-1920x1080.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar-brand{
+  margin-inline: 4cm;
+  font-weight: 800;
+  
+}
+.nav-link{
+    margin-inline: 1cm;
+}
+.btn{
+    margin-right: 5cm;
+
+    
+}
+.cont{
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 5cm;
+    margin-left: 5cm;
+    color: white;
+}
+.cls{
+     margin-left: 5cm;
+     color: white;
+
+}
+.btn1{
+    margin-left: 5cm;
+    border-radius: 0.5cm;
+   
+}
+.btn2{
+    margin-inline: 2cm;
+    border-radius: 0.5cm;
+}
+.tempo{
+   
+    height: max-content;
+    font-weight: 900;
+}
+.cont1{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 8cm;
+  
+    height: 100px;
+   
+    
+}
+.cont2{
+    text-align: center;
+    color: white;
+
+
+}
+.common{
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+}
